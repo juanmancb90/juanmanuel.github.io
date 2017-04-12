@@ -6,20 +6,20 @@
   "homepage": "https://juanmanuel.github.io",
   "author": {
     "name": "Juan Manuel",
-    "email": "juanmanuelr@gmail.com",
+    "email": "juanman90@gmail.com",
     "url": "https://juanmanuel.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juanmanuel/juanmanuel.github.io"
+    "url": "https://github.com/juanmancb90/juanmanuel.github.io"
   },
   "bugs": {
-    "url": "https://github.com/juanmanuel/juanmanuel.github.io/issues"
+    "url": "https://github.com/juanmancb90/juanmanuel.github.io/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/juanmanuel/juanmanuel.github.io/LICENSE"
+      "url": "https://github.com/juanmancb90/juanmanuel.github.io/LICENSE"
     }
   ],
   "engines": {
