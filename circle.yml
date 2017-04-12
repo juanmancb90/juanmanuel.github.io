@@ -1,6 +1,3 @@
 machine:
     node:
         version: '6.9.5'
-#notify:
-#    webhooks:
-#        - url: https://bot.suddi.io/hooks/circle
