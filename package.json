@@ -28,7 +28,7 @@
   },
   "scripts": {
     "bundle": "webpack -p --progress",
-    "deploy": "webpack -p --progress --config webpack.deploy.js",
+    "deploy": "webpack -p --progress --config webpack.config.js",
     "lint": "eslint .",
     "prepush": "npm test",
     "security-check": "nsp check --output summary",
