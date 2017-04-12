@@ -3,11 +3,11 @@
   "private": true,
   "description": "Juan Manuel personal site",
   "version": "1.0.0",
-  "homepage": "https://juanmancb90.github.io/portafolio/",
+  "homepage": "https://juanmancb90.github.io/portafolio",
   "author": {
     "name": "Juan Manuel",
     "email": "juanman90@gmail.com",
-    "url": "https://juanmancb90.github.io/portafolio/"
+    "url": "https://juanmancb90.github.io/portafolio"
   },
   "repository": {
     "type": "git",
