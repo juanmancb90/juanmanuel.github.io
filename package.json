@@ -30,7 +30,6 @@
     "bundle": "webpack -p --progress",
     "deploy": "webpack -p --progress --config webpack.config.js",
     "lint": "eslint .",
-    "prepush": "npm test",
     "security-check": "nsp check --output summary",
     "start": "webpack-dev-server --hot --inline",
     "test": "npm run lint && npm run security-check"
