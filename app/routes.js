@@ -16,7 +16,7 @@ const Routes = {
     get: function (config) {
         return (
             <Router history={browserHistory}>
-                <Route path='/' component={Main}>
+                <Route path='/portafolio' component={Main}>
                     <IndexRoute config={config} component={Home}/>
                     <Route path='*' component={NotFound}/>
                 </Route>
