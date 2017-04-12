@@ -41,7 +41,7 @@ const Education = React.createClass({
                 <div className='row education'>
                     <div className='two columns header-col'>
                         <h1>
-                            <span>Education</span>
+                            <span>Educación</span>
                         </h1>
                     </div>
                     <div className='ten columns main-col'>
