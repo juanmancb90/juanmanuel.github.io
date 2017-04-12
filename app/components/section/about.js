@@ -17,7 +17,7 @@ const About = React.createClass({
                         <img className='profile-pic' src={this.props.content.picture} alt={this.props.content.name}/>
                     </div>
                     <div className='ten columns main-col'>
-                        <h2>About Me</h2>
+                        <h2>Sobre Mi</h2>
                         {this.props.content.summary.map(function (content, index) {
                             return (
                                 <p key={index}>
@@ -27,7 +27,7 @@ const About = React.createClass({
                         })}
                         <div className='row'>
                             <div className='columns contact-details'>
-                                <h2>Contact Details</h2>
+                                <h2>Contactame</h2>
                                 <p className='address'>
                                     {/*
                                     <span>{this.props.content.location.address}</span>
@@ -46,16 +46,16 @@ const About = React.createClass({
                                     </a>
                                 </p>
                             </div>
-                            {/*
+                            {
                             <div className='columns download'>
                                 <p>
-                                    <a href='#' className='button'>
+                                    <a href='./public/Juan Manuel Chaguendo Bermeo-HV.pdf' className='button'>
                                         <i className='fa fa-download'></i>
-                                        Download Resume
+                                        Descargar HV
                                     </a>
                                 </p>
                             </div>
-                            */}
+                            }
                         </div>
                     </div>
                 </div>

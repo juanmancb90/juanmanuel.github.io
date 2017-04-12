@@ -53,7 +53,7 @@ const Work = React.createClass({
                 <div className='row work'>
                     <div className='two columns header-col'>
                         <h1>
-                            <span>Work</span>
+                            <span>Experiencia</span>
                         </h1>
                     </div>
                     <div className='ten columns main-col'>

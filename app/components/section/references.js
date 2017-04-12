@@ -47,7 +47,7 @@ const References = React.createClass({
                     <div className='row'>
                         <div className='two columns header-col'>
                             <h1>
-                                <span>References</span>
+                                <span>Referencias</span>
                             </h1>
                         </div>
                         <div className='columns flex-container'>
