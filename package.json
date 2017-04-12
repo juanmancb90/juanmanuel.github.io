@@ -3,23 +3,23 @@
   "private": true,
   "description": "Juan Manuel personal site",
   "version": "1.0.0",
-  "homepage": "https://juanmancb90.github.io/juanmanuel.github.io/",
+  "homepage": "https://juanmancb90.github.io/portafolio/",
   "author": {
     "name": "Juan Manuel",
     "email": "juanman90@gmail.com",
-    "url": "https://juanmanuel.github.io"
+    "url": "https://juanmancb90.github.io/portafolio/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juanmancb90/juanmanuel.github.io"
+    "url": "https://github.com/juanmancb90/portafolio"
   },
   "bugs": {
-    "url": "https://github.com/juanmancb90/juanmanuel.github.io/issues"
+    "url": "https://github.com/juanmancb90/portafolio/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/juanmancb90/juanmanuel.github.io/LICENSE"
+      "url": "https://github.com/juanmancb90/portafolio/LICENSE"
     }
   ],
   "engines": {
