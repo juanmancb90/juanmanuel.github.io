@@ -1,0 +1,471 @@
+{
+    "basics": {
+        "name": "Juan Manuel Chaguendo Bermeo",
+        "label": "Software Engineer - Backend Web Developer - Business Intelligence",
+        "picture": "https://secure.gravatar.com/avatar/83bc65c987361cef1fbb0b4de38fbdc6?s=300",
+        "email": "juanman90@gmail.com",
+        "phone": "+57 3008570731",
+        "website": "https://juanmancb90.github.io/portafolio/",
+        "summary": [
+            "Ingeniero de software responsable, orientado a los resultados, articulado y analítico, con una experiencia laboral en diferentes equipos de ingeniería con, centrándome principalmente en el desarrollo backend, sistemas de información y desarrollo de aplicaciones Web, trabajando con diferentes tecnología en las compañías.",          
+            "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios y asumir roles técnicos en el desarrollo de aplicaciones web modernas."        
+        ],
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Cali",
+            "countryCode": "Colombia",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Phone",
+                "username": "",
+                "url": "+57 3008570731"
+            },
+            {
+                "network": "Email",
+                "username": "juanman90@gmail.com",
+                "url": "mailto:juanman90@gmail.com"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "juan manuel",
+                "url": "https://www.linkedin.com/in/juan-manuel-chagüendo-bermeo-ba4736104"
+            },
+            {
+                "network": "GitHub",
+                "username": "juanmancb90",
+                "url": "https://github.com/juanmancb90"
+            },
+            {
+                "network": "GitHub",
+                "username": "juanmancb90",
+                "url": "https://gitlab.com/juanmancb90"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "El Pais S.A",
+            "position": "Ingeniero de Desarrollo",
+            "website": "https://www.elpais.com.co",
+            "startDate": "2016-11-01",
+            "endDate": "Present",
+            "summary": "Web Developer",
+            "highlights": [
+                "Participación en el proyecto de rediseño de la interfaz de usuario del sistema de clasificados web.",
+                "Desarrollo de mejoras al sistema de busquedas y nuevos requerimientos del negocio."
+            ]
+        },
+        {
+            "company": "Banco de Occidente",
+            "position": "Analista de Desarrollo",
+            "website": "https://www.bancodeoccidente.com.co",
+            "startDate": "2015-11-01",
+            "endDate": "2016-07-31",
+            "summary": "Analista",
+            "highlights": [
+                "Involved in end-to-end development of a new product from the ground up, working in Node.js to build the React.js frontend and distributed Express.js RESTful API, with DynamoDB and Aurora RDS MySQL database systems.",
+                "Engineered the in-use worker environment to interface with various SOAP and RESTful logistics courier APIs.",
+                "Introduced continuous integration and code coverage tools with Travis, Istanbul and Codecov, and created custom Docker containers to speed up testing execution.",
+                "Led an agile software development team of up to 8 engineers to maintain and extend the product as Tech Lead/Scrum Master.",
+                "Performed Product Manager duties and was responsible for development scheduling and product delivery."
+            ]
+        },
+        {
+            "company": "Pacific Health Solutions",
+            "position": "Ingeniero de Desarrollo",
+            "website": "http://www.pacific-hs.co/",
+            "startDate": "2013-03-01",
+            "endDate": "2014-12-31",
+            "summary": "node.js",
+            "highlights": [
+                "Conducted literary research and psychophysical experiments in the area of human perception and developed the infrastructure using one of C++/Python/MATLAB and OpenGL 4.1, depending on the complexity and requirements of the task.",
+                "Developed a general experiment engine in Python and OpenGL to create 3D vision experiments, with GUI interface for participant data collection."
+            ]
+        },
+        {
+            "company": "Universidad del Valle",
+            "position": "Monitor desarrollo",
+            "website": "http://www.univalle.edu.co",
+            "startDate": "2010-06-01",
+            "endDate": "2010-09-01",
+            "summary": "Malé, Maldives",
+            "highlights": [
+                "Developed a personnel database web application in PHP and MySQL from the ground up, to be used between the company and a local telecommunications operator to keep track of employees with company funded mobile phone services."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Lions Clubs International",
+            "position": "Student Organizer and Helper",
+            "website": "",
+            "startDate": "2009-02-01",
+            "endDate": "2009-05-01",
+            "summary": "",
+            "highlights": [
+                "Participated in this community service initiative that allowed students to plan and execute our own service: Bring Moxi to the Society.",
+                "In the event, we prepared computers and helped kindergartners to create their very own Moxi drawings using a stylus.",
+                "These drawings were then printed onto customized e-cards which could be sent to parents and loved ones."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad del Valle",
+            "area": "Ingenieria de Sistemas",
+            "studyType": "Pregrado",
+            "startDate": "2012-09-01",
+            "endDate": "2018-12-31",
+            "gpa": "",
+            "summary": "",
+            "courses": [
+                "Smart Phone Applications Development",
+                "Financial Computing",
+                "User Interface Design and Development",
+                "Computation Intelligence and Machine Learning",
+                "Web Technologies",
+                "Data Mining",
+                "Analysis and Design in UML",
+                "Securities Transaction Banking",
+                "Computational Finance",
+                "Visualization and Visual Analytics"
+            ]
+        },
+        {
+            "institution": "Univeridad del Valle",
+            "area": "Ciencias de la computación",
+            "studyType": "Tecnológico",
+            "startDate": "2008-02-01",
+            "endDate": "2010-12-31",
+            "gpa": "",
+            "summary": "Tecnologo en Sistemas de Información",
+            "courses": [
+                "Computer Graphics",
+                "Java Programming",
+                "Database Management Systems",
+                "Global Information Infrastructure and Policy",
+                "Design and Analysis of Algorithms",
+                "Operating Systems",
+                "Probability and Random Processes in Engineering",
+                "Discrete Mathematics",
+                "Linear Algebra",
+                "Internet Computing"
+            ]
+        },
+        {
+            "institution": "Universidad Autonoma de Occidente",
+            "area": "Ingenieria Informatica",
+            "studyType": "Pregrado",
+            "startDate": "2007-08-01",
+            "endDate": "2007-12-31",
+            "gpa": "",
+            "summary": "Cali, Valle",
+            "courses": [
+                "Software Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Dean's Award for Superior Achievement in Humanities Minor",
+            "date": "2010-12-01",
+            "awarder": "The Hong Kong University of Science and Technology",
+            "summary": "Awarded to students taking Humanities as a minor, and placing within the top 15% bracket in the programme."
+        }
+    ],
+    "projects": [
+        {
+            "name": "project 1",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Java"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Node.js"
+            ]
+        },
+        {
+            "name": "tweetstreamer",
+            "publisher": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Python"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Python",
+                "C",
+                "C++",
+                "OpenGL",
+                "GLSL"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Node.js",
+                "Yeoman"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "2",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Node.js"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Node.js"
+            ]
+        },
+        {
+            "name": "",
+            "publisher": "",
+            "category": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "Node.js"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Lenguajes de Programación",
+            "description": [
+                "Worked primarily with JavaScript, Python and C++, with frameworks such as Express.js, Koa.js, React.js, Django and Flask.",
+                "Interested in functional programming and serverless architectures, exploring with Erlang and AWS Lambda respectively."
+            ],
+            "skillDetails": [
+                {
+                    "name": "JavaScript",
+                    "level": "90",
+                    "keywords": [
+                        "programming",
+                        "expressjs"
+                    ]
+                },
+                {
+                    "name": "Python",
+                    "level": "80",
+                    "keywords": [
+                        "programming",
+                        "django",
+                        "flask"
+                    ]
+                },
+                {
+                    "name": "C++",
+                    "level": "60",
+                    "keywords": [
+                        "programming"
+                    ]
+                },
+                {
+                    "name": "PHP",
+                    "level": "90",
+                    "keywords": [
+                        "programming",
+                        "codeigniter",
+                        "symfony",
+                        "laravel"
+                    ]
+                },
+                {
+                    "name": "C#",
+                    "level": "70",
+                    "keywords": [
+                        "programming",
+                        ".net"
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "level": "70",
+                    "keywords": [
+                        "programming"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bases de Datos",
+            "description": [
+                "Experiencia con Bases de Datos SQl y NoSQl, con experiencia profesional con Oracle, Mysql, Postgresql, Sql server y Mongodb en proyecto individuales."
+            ],
+            "skillDetails": [
+                {
+                    "name": "Oracle",
+                    "level": "80",
+                    "keywords": [
+                        "database",
+                        "sql"
+                    ]
+                },
+                {
+                    "name": "Sql Server",
+                    "level": "70",
+                    "keywords": [
+                        "database",
+                        "sql"
+                    ]
+                },
+                {
+                    "name": "Redis",
+                    "level": "40",
+                    "keywords": [
+                        "database",
+                        "nosql"
+                    ]
+                },
+                {
+                    "name": "MongoDB",
+                    "level": "50",
+                    "keywords": [
+                        "database",
+                        "nosql"
+                    ]
+                },
+                {
+                    "name": "MySQL",
+                    "level": "80",
+                    "keywords": [
+                        "database",
+                        "sql"
+                    ]
+                },
+                {
+                    "name": "PostgreSQL",
+                    "level": "80",
+                    "keywords": [
+                        "database",
+                        "sql"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "80"
+        },
+        {
+            "name": "Español",
+            "level": "100"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Musica",
+            "keywords": []
+        },
+        {
+            "name": "Data Science",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo web Frontend-Backend",
+            "keywords": []
+        },
+        {
+            "name": "Futbol",
+            "keywords": []
+        },
+        {
+            "name": "Libros",
+            "keywords": []
+        },
+        {
+            "name": "Deporte",
+            "keywords": []
+        }
+    ],
+    "references": [
+        {
+            "name": "Julian David Bravo",
+            "position": "onsultor de Inteligencia de Negocios",
+            "company": "Quality Providers in Business Intelligence",
+            "reference": "cel: 3163275327"
+        },
+        {
+            "name": "Denilson Yesid Basante",
+            "position": "Ingeniero de Desarrollo",
+            "company": "Carvajal S.A",
+            "reference": "cel: 3173261130"
+        }
+    ]
+}
