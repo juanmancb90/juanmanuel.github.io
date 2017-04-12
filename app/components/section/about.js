@@ -49,9 +49,9 @@ const About = React.createClass({
                             {
                             <div className='columns download'>
                                 <p>
-                                    <a href='#' className='button'>
+                                    <a href='./public/Juan Manuel Chaguendo Bermeo-HV.pdf' className='button'>
                                         <i className='fa fa-download'></i>
-                                        Download Resume
+                                        Descargar HV
                                     </a>
                                 </p>
                             </div>
