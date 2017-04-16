@@ -233,11 +233,7 @@
                 "thumb": ""
             },
             "keywords": [
-                "Python",
-                "C",
-                "C++",
-                "OpenGL",
-                "GLSL"
+                "Python"
             ]
         },
         {
@@ -252,8 +248,7 @@
                 "thumb": ""
             },
             "keywords": [
-                "Node.js",
-                "Yeoman"
+                "Node.js"
             ]
         },
         {
