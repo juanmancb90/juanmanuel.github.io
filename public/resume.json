@@ -8,13 +8,13 @@
         "website": "https://juanmancb90.github.io/portafolio/",
         "summary": [
             "Ingeniero de software responsable, orientado a los resultados, articulado y analítico, con una experiencia laboral en diferentes equipos de ingeniería con, centrándome principalmente en el desarrollo backend, sistemas de información y desarrollo de aplicaciones Web, trabajando con diferentes tecnología en las compañías.",          
-            "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios, aprender nuevas tecnologías web y asumir diferentes roles técnicos en el desarrollo de modernas aplicaciones web ."   
-            "Me considero una persona responsable, autonoma, dedicada, comprometida y con capacidad de autoaprendizaje ya que me apasiona el desarrollo web."     
+            "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios, aprender nuevas tecnologías web y asumir diferentes roles técnicos en el desarrollo de modernas aplicaciones web .",
+            "Me considero una persona responsable, autonoma, dedicada, comprometida y con capacidad de autoaprendizaje ya que me apasiona el desarrollo web."
         ],
         "location": {
             "address": "",
             "postalCode": "",
-            "city": "Cali",
+            "city": "Cali, Valle",
             "countryCode": "Colombia",
             "region": ""
         },
@@ -55,10 +55,10 @@
             "endDate": "Presente",
             "summary": "Web Developer, Symfony, php, javascript",
             "highlights": [
-                "Desarrollar nuevas funcionalidad, módulos en las aplicaciones y/o plataformas web de la compañía. "
-                "Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte. "
-                "Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos. "
-                "Desarrollo de nuevos productos que permitan ofrecer más servicios a los lectores a través de plataformas digitales de vanguardia."
+                "Desarrollar nuevas funcionalidad, módulos en las aplicaciones y/o plataformas web de la compañía.",
+                "Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte.",
+                "Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos.",
+                "Desarrollo de nuevos productos que permitan ofrecer más servicios a los lectores a través de plataformas digitales de vanguardia.",
                 "Implementación de un rediseño responsivo y mejoras en la funcionalidades de la plataforma de Clasificados en línea de manera que sea multidispositivo."
             ]
         },
@@ -70,12 +70,12 @@
             "endDate": "2016-07-31",
             "summary": "Analista de Desarrollo, Business Intelligence, mineria de datos, datawarehouse, OLAP, ETL",
             "highlights": [
-            	"Análisis y levantamiento de reportes e interfaces que están conectados a los sistemas de información de cartera, los cuales son de uso general en las diferentes áreas de la organización."
-            	"Diseño e implementación de interfaces que consumen datos del Bus dimensional." 
-            	"Realizacion de ETL para la extraccion y poblamiento del ODS"
-            	"Definición de arquitecturas y esquemas de Data Warehouse (ODS) de acuerdo a las necesidades de negocio."
-            	"Recolecxión información del uso y aplicación de las diferentes interfaces Batch y reportes utilizados por los usuarios, además de aplicar minería de datos para encontrar dimensiones y tablas de hechos relevantes para el modelo de negocio de Cartera."
-				"Creación de script para cruzar información y detección de patrones de información."
+            	"Análisis y levantamiento de reportes e interfaces que están conectados a los sistemas de información de cartera, los cuales son de uso general en las diferentes áreas de la organización.",
+            	"Diseño e implementación de interfaces que consumen datos del Bus dimensional.",
+            	"Realizacion de ETL para la extraccion y poblamiento del ODS",
+            	"Definición de arquitecturas y esquemas de Data Warehouse (ODS) de acuerdo a las necesidades de negocio.",
+            	"Recolecxión información del uso y aplicación de las diferentes interfaces Batch y reportes utilizados por los usuarios, además de aplicar minería de datos para encontrar dimensiones y tablas de hechos relevantes para el modelo de negocio de Cartera.",
+				"Creación de script para cruzar información y detección de patrones de información.",
 				"Administracion y manejo de aplicacion para recoleccion de informacion realizada en Django/Python."
             ]
         },
@@ -87,10 +87,10 @@
             "endDate": "2015-10-31",
             "summary": "node.js, symfony, MVC, POO",
             "highlights": [
-            	"Desarrollar nuevas funcionalidad y módulos en las aplicaciones de las plataformas web tipo SaaS de la compañía."
-            	"Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte." 
-            	"Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos."
-				"Creaciónfuncionalidades en los formularios de búsquedas de pacientes que permiten usar lectores de códigos de Barras y cargan la información del Documento de Identidad en los mismo, además de validar los datos del Usuario con los datos de sudocumento escaneado." 
+            	"Desarrollar nuevas funcionalidad y módulos en las aplicaciones de las plataformas web tipo SaaS de la compañía.",
+            	"Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte.",
+            	"Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos.",
+				"Creaciónfuncionalidades en los formularios de búsquedas de pacientes que permiten usar lectores de códigos de Barras y cargan la información del Documento de Identidad en los mismo, además de validar los datos del Usuario con los datos de sudocumento escaneado.",
 				"Implementación de un sistema de notificaciones en node.js y Symfony para desarrollar aplicaciones asíncronas (Real Time) para complementar las aplicaciones de la plataforma PMS."
             ]
         },
@@ -102,8 +102,8 @@
             "endDate": "2014-09-01",
             "summary": "PHP, javascript, MVC",
             "highlights": [
-            	"Ayudar al desarrollo de una nueva versión del sistema de solicitudes de mantenimiento, implementando PHP orientado a objetos, Ajax y el patrón MVC usando como base el sistema de inventarios desarrollado en la sección de mantenimiento."
-				"Se implementó una nueva lógica en el Back-end separando el código de la aplicación de acuerdo al modelo MVC estableciendo un mini framework PHP y programación orientada a objetos, además se migraron las cuentas de usuario al nuevo sistema." 
+            	"Ayudar al desarrollo de una nueva versión del sistema de solicitudes de mantenimiento, implementando PHP orientado a objetos, Ajax y el patrón MVC usando como base el sistema de inventarios desarrollado en la sección de mantenimiento.",
+				"Se implementó una nueva lógica en el Back-end separando el código de la aplicación de acuerdo al modelo MVC estableciendo un mini framework PHP y programación orientada a objetos, además se migraron las cuentas de usuario al nuevo sistema.",
 				"Se deja implementada la aplicación en una versión de desarrollo en el servidor la cual aún sigue en desarrollo ya que el tiempo no permitió realizar la capacitación a usuarios y adaptación del responsive web desing."
             ]
         }
@@ -160,7 +160,7 @@
                 "Fundamentos de Analisis y Diseño de Algoritmos",
                 "Ssitemas Operativos",
                 "Matemáticas Discretas",
-                "Sistemas de Información"
+                "Sistemas de Información",
                 "Algebra Lineal",
                 "Fundamentos de Redes",
                 "Programación Interactiva"
@@ -193,8 +193,8 @@
             "publisher": "juan manuel chaguendo",
             "category": "web site",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/WebSiteNode",
+            "summary": "web site hecho con nodejs, express y mongodb",
             "image": {
                 "modal": "",
                 "thumb": ""
@@ -231,7 +231,7 @@
                 "thumb": ""
             },
             "keywords": [
-                "node.js,"
+                "node.js",
                 "express.js"
             ]
         },
@@ -342,7 +342,7 @@
                 "thumb": ""
             },
             "keywords": [
-                "nodejs",
+                "node.js",
                 "express.js",
                 "sequelize",
                 "ES6",
