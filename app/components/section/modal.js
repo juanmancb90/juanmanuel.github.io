@@ -40,9 +40,9 @@ const Modal = React.createClass({
                         href={this.props.entry.website}
                         target='_blank'
                         rel='noopener noreferrer'>
-                        Details
+                        Detalles
                     </a>
-                    <a className='popup-modal-dismiss' onClick={this.props.onRequestClose}>Close</a>
+                    <a className='popup-modal-dismiss' onClick={this.props.onRequestClose}>Cerrar</a>
                 </div>
             </ReactModal>
         );
