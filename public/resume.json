@@ -196,8 +196,8 @@
             "website": "https://github.com/juanmancb90/WebSiteNode",
             "summary": "web site hecho con nodejs, express y mongodb",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "nodejs",
@@ -213,8 +213,8 @@
             "website": "https://github.com/juanmancb90/Streaming-Twitter",
             "summary": "stream de tweet que integra la api de twitter usando nodejs, socket.io, expressjs",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "Node.js"
@@ -227,8 +227,8 @@
             "website": "https://gitlab.com/juanmancb90/Api-RestFul-nodej",
             "summary": "Microservicio en node js que permite autenticarse mediante OAuth2  con node.js, express.js",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "node.js",
@@ -243,8 +243,8 @@
             "website": "https://github.com/juanmancb90/Agenda-Python",
             "summary": "agenda de contactos telefonicos hechoa con python",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "Python"
@@ -258,8 +258,8 @@
             "website": "https://gitlab.com/juanmancb90/TicketSystem",
             "summary": "sistema basico de ticket con laravel 5.2",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "laravel",
@@ -274,8 +274,8 @@
             "website": "https://github.com/juanmancb90/App-codeigniter",
             "summary": "App web para administra notas-codeigniter, ajax, bootstrap 3",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "PHP",
@@ -290,8 +290,8 @@
             "website": "https://github.com/juanmancb90/pingpong",
             "summary": "juego básico de ping pong en javascript ",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "javascript",
@@ -306,8 +306,8 @@
             "website": "https://github.com/juanmancb90/react-game",
             "summary": "juego básico hecho con react.js",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "react.js"
@@ -321,8 +321,8 @@
             "website": "https://github.com/juanmancb90/App-Php",
             "summary": "apliacion para gestion de ordenes de mantenimientos",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "php",
@@ -338,8 +338,8 @@
             "website": "https://gitlab.com/juanmancb90/api-postgres",
             "summary": "Api Restful con nodejs, express.js,sequelize y postgresql",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "node.js",
@@ -357,8 +357,8 @@
             "website": "https://gitlab.com/juanmancb90/todoListApp",
             "summary": "apliacion CRUD de notas en laravel",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "php",
@@ -374,8 +374,8 @@
             "website": "https://github.com/juanmancb90/FaceRecognized",
             "summary": "Proyecto de reconocimiento facial con descomposicion SVD",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "c++"
@@ -389,8 +389,8 @@
             "website": "https://gitlab.com/juanmancb90/RedNeuronal",
             "summary": "Proyecto que intenta mostrar el uso de redes neuronales con javascrpt- En desarrollo",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "/public/images/portafolio/modal/image.jpg",
+                "thumb": "/public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "es6",
