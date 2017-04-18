@@ -344,7 +344,9 @@
             "keywords": [
                 "nodejs",
                 "express.js",
-                "sequelize"
+                "sequelize",
+                "ES6",
+                "ES7"
             ]
         },
         {
@@ -377,6 +379,23 @@
             },
             "keywords": [
                 "c++"
+            ]
+        },
+        {
+            "name": "Simulador Red Neuronal",
+            "publisher": "juan manuel chaguendo",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://gitlab.com/juanmancb90/RedNeuronal",
+            "summary": "Proyecto que intenta mostrar el uso de redes neuronales con javascrpt- En desarrollo",
+            "image": {
+                "modal": "",
+                "thumb": ""
+            },
+            "keywords": [
+                "es6",
+                "es7",
+                "javascript"
             ]
         }
     ],
