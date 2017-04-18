@@ -8,12 +8,13 @@
         "website": "https://juanmancb90.github.io/portafolio/",
         "summary": [
             "Ingeniero de software responsable, orientado a los resultados, articulado y analítico, con una experiencia laboral en diferentes equipos de ingeniería con, centrándome principalmente en el desarrollo backend, sistemas de información y desarrollo de aplicaciones Web, trabajando con diferentes tecnología en las compañías.",          
-            "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios, aprender nuevas tecnologías web y asumir diferentes roles técnicos en el desarrollo de modernas aplicaciones web ."        
+            "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios, aprender nuevas tecnologías web y asumir diferentes roles técnicos en el desarrollo de modernas aplicaciones web .",
+            "Me considero una persona responsable, autonoma, dedicada, comprometida y con capacidad de autoaprendizaje ya que me apasiona el desarrollo web."
         ],
         "location": {
             "address": "",
             "postalCode": "",
-            "city": "Cali",
+            "city": "Cali, Valle",
             "countryCode": "Colombia",
             "region": ""
         },
@@ -51,11 +52,14 @@
             "position": "Ingeniero de Desarrollo",
             "website": "https://www.elpais.com.co",
             "startDate": "2016-11-01",
-            "endDate": "Present",
-            "summary": "Web Developer",
+            "endDate": "Presente",
+            "summary": "Web Developer, Symfony, php, javascript",
             "highlights": [
-                "Participación en el proyecto de rediseño de la interfaz de usuario del sistema de clasificados web.",
-                "Desarrollo de mejoras al sistema de busquedas y nuevos requerimientos del negocio."
+                "Desarrollar nuevas funcionalidad, módulos en las aplicaciones y/o plataformas web de la compañía.",
+                "Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte.",
+                "Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos.",
+                "Desarrollo de nuevos productos que permitan ofrecer más servicios a los lectores a través de plataformas digitales de vanguardia.",
+                "Implementación de un rediseño responsivo y mejoras en la funcionalidades de la plataforma de Clasificados en línea de manera que sea multidispositivo."
             ]
         },
         {
@@ -64,43 +68,50 @@
             "website": "https://www.bancodeoccidente.com.co",
             "startDate": "2015-11-01",
             "endDate": "2016-07-31",
-            "summary": "Analista",
+            "summary": "Analista de Desarrollo, Business Intelligence, mineria de datos, datawarehouse, OLAP, ETL",
             "highlights": [
-                "Involved in end-to-end development of a new product from the ground up, working in Node.js to build the React.js frontend and distributed Express.js RESTful API, with DynamoDB and Aurora RDS MySQL database systems.",
-                "Engineered the in-use worker environment to interface with various SOAP and RESTful logistics courier APIs.",
-                "Introduced continuous integration and code coverage tools with Travis, Istanbul and Codecov, and created custom Docker containers to speed up testing execution.",
-                "Led an agile software development team of up to 8 engineers to maintain and extend the product as Tech Lead/Scrum Master.",
-                "Performed Product Manager duties and was responsible for development scheduling and product delivery."
+            	"Análisis y levantamiento de reportes e interfaces que están conectados a los sistemas de información de cartera, los cuales son de uso general en las diferentes áreas de la organización.",
+            	"Diseño e implementación de interfaces que consumen datos del Bus dimensional.",
+            	"Realizacion de ETL para la extraccion y poblamiento del ODS",
+            	"Definición de arquitecturas y esquemas de Data Warehouse (ODS) de acuerdo a las necesidades de negocio.",
+            	"Recolecxión información del uso y aplicación de las diferentes interfaces Batch y reportes utilizados por los usuarios, además de aplicar minería de datos para encontrar dimensiones y tablas de hechos relevantes para el modelo de negocio de Cartera.",
+				"Creación de script para cruzar información y detección de patrones de información.",
+				"Administracion y manejo de aplicacion para recoleccion de informacion realizada en Django/Python."
             ]
         },
         {
             "company": "Pacific Health Solutions",
             "position": "Ingeniero de Desarrollo",
             "website": "http://www.pacific-hs.co/",
-            "startDate": "2013-03-01",
-            "endDate": "2014-12-31",
-            "summary": "node.js",
+            "startDate": "2015-04-18",
+            "endDate": "2015-10-31",
+            "summary": "node.js, symfony, MVC, POO",
             "highlights": [
-                "Conducted literary research and psychophysical experiments in the area of human perception and developed the infrastructure using one of C++/Python/MATLAB and OpenGL 4.1, depending on the complexity and requirements of the task.",
-                "Developed a general experiment engine in Python and OpenGL to create 3D vision experiments, with GUI interface for participant data collection."
+            	"Desarrollar nuevas funcionalidad y módulos en las aplicaciones de las plataformas web tipo SaaS de la compañía.",
+            	"Corrección y solución de errores y/o fallos en las aplicaciones web correspondientes a diferentes niveles de importancia de soporte.",
+            	"Investigación de nuevas tecnologías y aplicación de las mismas a la resolución de nuevos requerimientos.",
+				"Creaciónfuncionalidades en los formularios de búsquedas de pacientes que permiten usar lectores de códigos de Barras y cargan la información del Documento de Identidad en los mismo, además de validar los datos del Usuario con los datos de sudocumento escaneado.",
+				"Implementación de un sistema de notificaciones en node.js y Symfony para desarrollar aplicaciones asíncronas (Real Time) para complementar las aplicaciones de la plataforma PMS."
             ]
         },
         {
             "company": "Universidad del Valle",
-            "position": "Monitor desarrollo",
+            "position": "Monitor desarrollo Web",
             "website": "http://www.univalle.edu.co",
-            "startDate": "2010-06-01",
-            "endDate": "2010-09-01",
-            "summary": "Malé, Maldives",
+            "startDate": "2014-12-15",
+            "endDate": "2014-09-01",
+            "summary": "PHP, javascript, MVC",
             "highlights": [
-                "Developed a personnel database web application in PHP and MySQL from the ground up, to be used between the company and a local telecommunications operator to keep track of employees with company funded mobile phone services."
+            	"Ayudar al desarrollo de una nueva versión del sistema de solicitudes de mantenimiento, implementando PHP orientado a objetos, Ajax y el patrón MVC usando como base el sistema de inventarios desarrollado en la sección de mantenimiento.",
+				"Se implementó una nueva lógica en el Back-end separando el código de la aplicación de acuerdo al modelo MVC estableciendo un mini framework PHP y programación orientada a objetos, además se migraron las cuentas de usuario al nuevo sistema.",
+				"Se deja implementada la aplicación en una versión de desarrollo en el servidor la cual aún sigue en desarrollo ya que el tiempo no permitió realizar la capacitación a usuarios y adaptación del responsive web desing."
             ]
         }
     ],
     "volunteer": [
         {
-            "organization": "Lions Clubs International",
-            "position": "Student Organizer and Helper",
+            "organization": "Samaritanos de la Calle",
+            "position": "Voluntario",
             "website": "",
             "startDate": "2009-02-01",
             "endDate": "2009-05-01",
@@ -118,20 +129,21 @@
             "area": "Ingenieria de Sistemas",
             "studyType": "Pregrado",
             "startDate": "2012-09-01",
-            "endDate": "2018-12-31",
+            "endDate": "Presente",
             "gpa": "",
             "summary": "",
             "courses": [
-                "Smart Phone Applications Development",
-                "Financial Computing",
-                "User Interface Design and Development",
-                "Computation Intelligence and Machine Learning",
-                "Web Technologies",
-                "Data Mining",
-                "Analysis and Design in UML",
-                "Securities Transaction Banking",
-                "Computational Finance",
-                "Visualization and Visual Analytics"
+                "Aplicaciones en la Web",
+                "Analísis Económico de Inversiones",
+                "Diseño de Interfaces de Usuario",
+                "Inteligencia Artificial",
+                "Computación Evolutiva",
+                "Descubrimientos del Conocimiento en Bases de Datos",
+                "Administración de Redes y Servidores",
+                "Computación Gráfica",
+                "Simulacíon Computacional",
+                "Complejidad y Optimización",
+                "Probabilidad y Estadística"
             ]
         },
         {
@@ -143,16 +155,15 @@
             "gpa": "",
             "summary": "Tecnologo en Sistemas de Información",
             "courses": [
-                "Computer Graphics",
-                "Java Programming",
-                "Database Management Systems",
-                "Global Information Infrastructure and Policy",
-                "Design and Analysis of Algorithms",
-                "Operating Systems",
-                "Probability and Random Processes in Engineering",
-                "Discrete Mathematics",
-                "Linear Algebra",
-                "Internet Computing"
+                "Programacion Orientada a Objetos",
+                "Bases de Datos",
+                "Fundamentos de Analisis y Diseño de Algoritmos",
+                "Ssitemas Operativos",
+                "Matemáticas Discretas",
+                "Sistemas de Información",
+                "Algebra Lineal",
+                "Fundamentos de Redes",
+                "Programación Interactiva"
             ]
         },
         {
@@ -164,141 +175,227 @@
             "gpa": "",
             "summary": "Cali, Valle",
             "courses": [
-                "Software Engineering"
+                "Pensamiento Computacional"
             ]
         }
     ],
     "awards": [
         {
-            "title": "Dean's Award for Superior Achievement in Humanities Minor",
-            "date": "2010-12-01",
-            "awarder": "The Hong Kong University of Science and Technology",
-            "summary": "Awarded to students taking Humanities as a minor, and placing within the top 15% bracket in the programme."
+            "title": "Mejor Graduado",
+            "date": "2011-04-15",
+            "awarder": "Mejor Graduado",
+            "summary": "Mejor Graduado del Programa de Tecnologia de Sistemas de Información."
         }
     ],
     "projects": [
         {
-            "name": "project 1",
-            "publisher": "",
-            "category": "",
+            "name": "Web Site con node js",
+            "publisher": "juan manuel chaguendo",
+            "category": "web site",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/WebSiteNode",
+            "summary": "web site hecho con nodejs, express y mongodb",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Java"
+                "nodejs",
+                "express.js",
+                "mongodb"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
+            "name": "twitter stream",
+            "publisher": "juan manuel ch",
             "category": "",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/Streaming-Twitter",
+            "summary": "stream de tweet que integra la api de twitter usando nodejs, socket.io, expressjs",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "Node.js"
             ]
         },
         {
-            "name": "tweetstreamer",
-            "publisher": "",
+            "name": "Backend microservice",
+            "publisher": "Juan manuel chaguendo",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://gitlab.com/juanmancb90/Api-RestFul-nodej",
+            "summary": "Microservicio en node js que permite autenticarse mediante OAuth2  con node.js, express.js",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
+            },
+            "keywords": [
+                "node.js",
+                "express.js"
+            ]
+        },
+        {
+            "name": "Agenda telefonica de contactos",
+            "publisher": "Juan manuel chaguendo",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://github.com/juanmancb90/Agenda-Python",
+            "summary": "agenda de contactos telefonicos hechoa con python",
+            "image": {
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
                 "Python"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
-            "category": "",
+            "name": "Ticket system",
+            "publisher": "juan manuel chaguendo",
+            "category": "laravel, php",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://gitlab.com/juanmancb90/TicketSystem",
+            "summary": "sistema basico de ticket con laravel 5.2",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Python",
-                "C",
-                "C++",
-                "OpenGL",
-                "GLSL"
+                "laravel",
+                "php"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
+            "name": "Sistema de Notas",
+            "publisher": "Juan Manuel Chaguendo Bermeo",
             "category": "",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/App-codeigniter",
+            "summary": "App web para administra notas-codeigniter, ajax, bootstrap 3",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Node.js",
-                "Yeoman"
+                "PHP",
+                "codeigniter"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
+            "name": "Ping Pong",
+            "publisher": "Juan Manuel Chaguendo Bermeo",
             "category": "",
-            "releaseDate": "2",
-            "website": "",
-            "summary": "",
+            "releaseDate": "",
+            "website": "https://github.com/juanmancb90/pingpong",
+            "summary": "juego básico de ping pong en javascript ",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Node.js"
+                "javascript",
+                "POO"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
+            "name": "Triqui Game",
+            "publisher": "juan manuel",
             "category": "",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/react-game",
+            "summary": "juego básico hecho con react.js",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Node.js"
+                "react.js"
             ]
         },
         {
-            "name": "",
-            "publisher": "",
+            "name": "App de mantenimientos",
+            "publisher": "juan manuel",
             "category": "",
             "releaseDate": "",
-            "website": "",
-            "summary": "",
+            "website": "https://github.com/juanmancb90/App-Php",
+            "summary": "apliacion para gestion de ordenes de mantenimientos",
             "image": {
-                "modal": "",
-                "thumb": ""
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
             },
             "keywords": [
-                "Node.js"
+                "php",
+                "MVC",
+                "POO"
+            ]
+        },
+        {
+            "name": "API Restful Nodejs",
+            "publisher": "juan manuel",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://gitlab.com/juanmancb90/api-postgres",
+            "summary": "Api Restful con nodejs, express.js,sequelize y postgresql",
+            "image": {
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
+            },
+            "keywords": [
+                "node.js",
+                "express.js",
+                "sequelize",
+                "ES6",
+                "ES7"
+            ]
+        },
+        {
+            "name": "Todo List",
+            "publisher": "juan manuel",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://gitlab.com/juanmancb90/todoListApp",
+            "summary": "apliacion CRUD de notas en laravel",
+            "image": {
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
+            },
+            "keywords": [
+                "php",
+                "MVC",
+                "laravel"
+            ]
+        },
+        {
+            "name": "Face Recognize",
+            "publisher": "juan manuel chaguendo, denilson yesid basante",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://github.com/juanmancb90/FaceRecognized",
+            "summary": "Proyecto de reconocimiento facial con descomposicion SVD",
+            "image": {
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
+            },
+            "keywords": [
+                "c++"
+            ]
+        },
+        {
+            "name": "Simulador Red Neuronal",
+            "publisher": "juan manuel chaguendo",
+            "category": "",
+            "releaseDate": "",
+            "website": "https://gitlab.com/juanmancb90/RedNeuronal",
+            "summary": "Proyecto que intenta mostrar el uso de redes neuronales con javascrpt- En desarrollo",
+            "image": {
+                "modal": "./public/images/portafolio/modal/image.jpg",
+                "thumb": "./public/images/portafolio/thumb/image.jpg"
+            },
+            "keywords": [
+                "es6",
+                "es7",
+                "javascript"
             ]
         }
     ],
@@ -306,8 +403,8 @@
         {
             "title": "Lenguajes de Programación",
             "description": [
-                "Worked primarily with JavaScript, Python and C++, with frameworks such as Express.js, Koa.js, React.js, Django and Flask.",
-                "Interested in functional programming and serverless architectures, exploring with Erlang and AWS Lambda respectively."
+                "Trabajo principalmente con los lenguajes JavaScript(es6, es7), Python y PHP, además con frameworks como Express.js, Node.js, React.js, Laravel, Symfony y Codeigniter.",
+                "Interesado en la Programacion funcional reactiva, asycn function, Graphql, Api Restful, Backend, Data Science, TDD y arquitectura de microservicios, explorando todo los días nuevas tecnologias web como Redux, Vue.js y TensorFlow."
             ],
             "skillDetails": [
                 {
@@ -320,7 +417,7 @@
                 },
                 {
                     "name": "Python",
-                    "level": "80",
+                    "level": "70",
                     "keywords": [
                         "programming",
                         "django",
@@ -358,13 +455,22 @@
                     "keywords": [
                         "programming"
                     ]
+                },
+                {
+                    "name": "Git",
+                    "level": "90",
+                    "keywords": [
+                        "github",
+                        "gitlab",
+                        "gitflow"
+                    ]
                 }
             ]
         },
         {
             "title": "Bases de Datos",
             "description": [
-                "Experiencia con Bases de Datos SQl y NoSQl, con experiencia profesional con Oracle, Mysql, Postgresql, Sql server y Mongodb en proyecto individuales."
+                "Experiencia con Bases de Datos SQl y NoSQl, con experiencia profesional con Oracle, Mysql, Postgresql, Sql server. Redis y Mongodb en proyecto individuales."
             ],
             "skillDetails": [
                 {
