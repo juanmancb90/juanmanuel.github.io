@@ -4,7 +4,7 @@ const React = require('react');
 const PropTypes = React.PropTypes;
 
 // ----------------------------------------------------------------------------
-// COMPONENTS
+// COMPONENTS PROP TYPES
 // ----------------------------------------------------------------------------
 
 module.exports.location = PropTypes.shape({

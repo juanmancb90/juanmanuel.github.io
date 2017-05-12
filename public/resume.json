@@ -7,7 +7,7 @@
         "phone": "+57 3008570731",
         "website": "https://juanmancb90.github.io/portafolio/",
         "summary": [
-            "Ingeniero de software responsable, orientado a los resultados, articulado y analítico, con una experiencia laboral en diferentes equipos de ingeniería con, centrándome principalmente en el desarrollo backend, sistemas de información y desarrollo de aplicaciones Web, trabajando con diferentes tecnología en las compañías.",          
+            "Ingeniero de software responsable, orientado a los resultados, articulado y analítico, con una experiencia laboral en diferentes equipos de ingeniería con, centrándome principalmente en el desarrollo backend, sistemas de información y desarrollo de aplicaciones Web, trabajando con diferentes tecnología en las compañías.",
             "Excelentes habilidades de comunicación escrita y verbal. Interesado ​​en tomar desafios, aprender nuevas tecnologías web y asumir diferentes roles técnicos en el desarrollo de modernas aplicaciones web .",
             "Me considero una persona responsable, autonoma, dedicada, comprometida y con capacidad de autoaprendizaje ya que me apasiona el desarrollo web."
         ],
@@ -40,7 +40,7 @@
                 "url": "https://github.com/juanmancb90"
             },
             {
-                "network": "GitHub",
+                "network": "Gitlab",
                 "username": "juanmancb90",
                 "url": "https://gitlab.com/juanmancb90"
             }
@@ -131,7 +131,7 @@
             "startDate": "2012-09-01",
             "endDate": "Presente",
             "gpa": "",
-            "summary": "",
+            "summary": "Ingeniero de Sistemas",
             "courses": [
                 "Aplicaciones en la Web",
                 "Analísis Económico de Inversiones",
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "institution": "Univeridad del Valle",
+            "institution": "Universidad del Valle",
             "area": "Ciencias de la computación",
             "studyType": "Tecnológico",
             "startDate": "2008-02-01",
